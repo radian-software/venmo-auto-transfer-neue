@@ -2,7 +2,7 @@
 name = "venmo-auto-transfer"
 version = "0.1.0"
 description = "Wrapper for venmo-auto-cashout"
-authors = ["Radon Rosborough <radon@intuitiveexplanations.com>"]
+authors = ["Radian LLC <contact+venmo-auto-transfer-neue@radian.codes>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
