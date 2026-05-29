@@ -7,10 +7,10 @@ authors = ["Radian LLC <contact+venmo-auto-transfer-neue@radian.codes>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 venmo-auto-cashout = {git = "https://github.com/raxod502/venmo-auto-cashout.git", rev = "fork/1"}
-python-dotenv = "^1.0.1"
-requests = "^2.32.3"
+python-dotenv = "^1.2.2"
+requests = "^2.34.2"
 base58 = "^2.1.1"
-cryptography = "^43.0.0"
+cryptography = "^48.0.0"
 vodozemac = "^0.9.0.post2"
 
 
